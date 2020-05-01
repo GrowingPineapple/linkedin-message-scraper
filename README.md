@@ -14,6 +14,7 @@ Configure:
 - login: Your LinkedIn email adress
 - password: Your LinkedIn passwword
 - Limit: Set the number of pages you ant to parse (e.g. if you want to get the last 140 conversations set the limit to 7 (140/20))
+- Run "messages.py"
 
 
 Error: In case you get IndexError: list index out of range, set the limit to the amount of recongnized messages
