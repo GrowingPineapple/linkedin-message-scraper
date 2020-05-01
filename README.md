@@ -1,4 +1,4 @@
-# LinkedIn: Scrape all your messages
+# LinkedIn: Inbox Message Scraper
 If you would want to scrape all the inbox messages, this script could be use for that.
 
 The purpose of this repository is for iillustratory purposes only.
